@@ -11,5 +11,7 @@ Here are three fishes.
 
 \><)))°> ><)))°> ><)))°>
 
-and another one..
-\><)))°> 
+and another one...
+\><)))°>
+
+I think working on collaborative codes/documents using GitHub is easier than expected.
